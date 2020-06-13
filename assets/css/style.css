@@ -9,7 +9,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 header {
-    padding: 2opx 35px;
+    padding: 20px 35px;
     background-color: #39a6b2;
 }
 header h1 {
@@ -53,4 +53,57 @@ footer div {
 }
 footer a {
     color: #024e76;
+}
+section {
+    padding: 60px;
+}
+section {
+    padding: 60px; 
+}
+.hero {
+    background-image: url("/Users/mattverdillo/Desktop/projects/run-buddy/images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.hero-form {
+    color: #024e76;
+    background-color: #fce138;
+    width: 500px;
+    padding: 20px;
+    border: solid 3px #024e76; 
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+}
+
+.hero-form h3 {
+    font-size: 24px;
+    margin: 0;
+}
+.hero-form p {
+    margin: 5px 0 15px 0; 
+}
+
+.form-input {
+    border: 1px solid #024e76; 
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.hero-form label {
+    margin: 0 5px;
+}
+
+.hero-form button {
+    background-color: #024e76;
+    color: #fce138;
+    font-size: 16px;
+    padding: 10px 20px; 
+    border: none;
 }
