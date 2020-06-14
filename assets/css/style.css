@@ -61,7 +61,7 @@ section {
     padding: 60px; 
 }
 .hero {
-    background-image: url("/Users/mattverdillo/Desktop/projects/run-buddy/images/hero-bg.jpg");
+    background-image: url("/Users/mattverdillo/Desktop/projects/run-buddy/assets/images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
