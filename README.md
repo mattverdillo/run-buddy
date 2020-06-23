@@ -1,7 +1,7 @@
-# run-buddy
+# Run Buddy, Inc
 
 ##Purpose
-A website that offer fitness training services. 
+A website that offers fitness training services. 
 
 ## Built With
 *HTML
@@ -11,4 +11,7 @@ A website that offer fitness training services.
 https://mattverdillo.github.io/run-buddy/
 
 ## Contribution 
-Made with <3 by Matt Verdillo  
+Made with <3 by Matt Verdillo 
+
+### ©️2019 Run Buddy, Inc 
+
