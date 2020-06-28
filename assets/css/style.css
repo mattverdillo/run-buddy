@@ -340,6 +340,18 @@ section {
     justify-content: space-between;
 }
 
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
     header {
@@ -386,8 +398,7 @@ section {
     .contact-info iframe {
         flex: 1 100%;
     }
-}
-  
+
   /* MEDIA QUERY FOR TABLETS AND SMALLER */
   @media screen and (max-width: 768px) {
       section {
